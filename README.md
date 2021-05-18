@@ -15,3 +15,5 @@ The script takes the automated email report from the Payroll system, scrapes out
 
 ## See it in action
 First, the automated report from payroll system that will be used.
+
+![Optional Text](../master/README-IMAGES/email.PNG)
