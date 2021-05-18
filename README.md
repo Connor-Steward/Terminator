@@ -14,6 +14,16 @@ The script takes the automated email report from the Payroll system, scrapes out
 - OS Ticket: https://osticket.com/
 
 ## See it in action
-First, the automated report from payroll system that will be used.
+The automated report from payroll system that will be used.
 
-![Optional Text](../master/README-IMAGES/email.PNG)
+![Optional Text](/README-IMAGES/email.PNG)
+
+Run the script and watch the employees get TERMINATED!
+
+![Optional Text](/README-IMAGES/terminator-CMD.gif)
+
+Tickets are created and ready to be actioned in the ticketing system
+
+![Optional Text](/README-IMAGES/os1.png)
+
+![Optional Text](/README-IMAGES/os2.png)
