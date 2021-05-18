@@ -1,7 +1,3 @@
-# Terminator
-Automation of terminated employee tickets in OS Ticket using email and Python
-
-<br/><br/>
 ## What is Terminator
 The script takes the automated email report from the Payroll system, scrapes out all the required data, then generates a ticket for the IT department to then check off/close off accounts, ensure user has returned hardware, setup any email forwards etc. 
 
