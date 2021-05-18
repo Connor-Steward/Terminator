@@ -14,3 +14,4 @@ The script takes the automated email report from the Payroll system, scrapes out
 - OS Ticket: https://osticket.com/
 
 ## See it in action
+First, the automated report from payroll system that will be used.
