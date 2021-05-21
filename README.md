@@ -18,10 +18,10 @@ Run the script and watch the employees get TERMINATED!
 
 ![Optional Text](/README-IMAGES/terminator-CMD.gif)
 
-Tickets are created and ready to be actioned in the ticketing system
+Tickets are created and ready to be actioned in the ticketing system.
 
 ![Optional Text](/README-IMAGES/os1.PNG)
 
-All information is populated as per original email
+All information is populated as per original email.
 
 ![Optional Text](/README-IMAGES/os2.png)
